@@ -1,6 +1,6 @@
 ---
 website: "CM Sabugal"          # Entre as aspas escreve o nome do website
-date: "23/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "18/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-sabugal.pt"   # Entre as aspas escreve o domínio do website
 owner: "CM Sabugal"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
@@ -15,11 +15,12 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório da Auditoria de CM Sabugal](06012026_relatorio_report_013.html)
+Consulte aqui a última atualização: [Relatório da Auditoria de CM Sabugal](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
+     <li><a href="08072026_report.html">(08/07/2026). Relatório CM Sabugal</a></li>
      <li><a href="23122025_relatorio_report_013.html">(23/12/2025). Relatório CM Sabugal</a></li>
   </ul>
 </details>
