@@ -1,6 +1,6 @@
 ---
 website: "CM Sabugal"          # Entre as aspas escreve o nome do website
-date: "18/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "23/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-sabugal.pt"   # Entre as aspas escreve o domínio do website
 owner: "CM Sabugal"         # Entre as aspas escrever o nome do owner do website
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
